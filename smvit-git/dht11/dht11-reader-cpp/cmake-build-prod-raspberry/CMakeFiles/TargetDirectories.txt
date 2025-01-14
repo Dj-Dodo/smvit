@@ -1,0 +1,3 @@
+/tmp/tmp.TgoBxITzr5/cmake-build-prod-raspberry/CMakeFiles/dht11_reader_cpp.dir
+/tmp/tmp.TgoBxITzr5/cmake-build-prod-raspberry/CMakeFiles/edit_cache.dir
+/tmp/tmp.TgoBxITzr5/cmake-build-prod-raspberry/CMakeFiles/rebuild_cache.dir

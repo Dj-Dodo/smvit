@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/dht11_reader_cpp.dir/main.cpp.o -o dht11_reader_cpp  -lwiringPi 
